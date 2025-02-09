@@ -1,0 +1,3 @@
+com\automation\framework\BaseTest.class
+com\automation\framework\tests\LoginTest.class
+com\automation\framework\tests\NavigationTest.class

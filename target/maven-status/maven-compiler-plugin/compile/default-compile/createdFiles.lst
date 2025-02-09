@@ -1,0 +1,4 @@
+com\automation\framework\utils\LoggerUtil.class
+com\automation\framework\utils\ScreenshotUtil.class
+com\automation\framework\utils\ConfigReader.class
+com\automation\framework\drivers\WebDriverManager.class
