@@ -1,1 +1,1 @@
-# SeleniumFramework
+Customized framework for Web Automation.
